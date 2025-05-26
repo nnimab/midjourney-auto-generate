@@ -7,11 +7,11 @@
 ```
 ├── midjourney-automation/           # 主要自動化程式目錄
 │   ├── data/                       # 數據文件目錄
-│   │   ├── character_cards.json    # 人物卡數據
+│   │   ├── character_cards.json    # 圖片1prompt
 │   │   ├── character_cards copy.json
-│   │   ├── hexagrams.json          # 易經卦象數據
+│   │   ├── hexagrams.json          # 圖片2prompt
 │   │   ├── hexagrams copy.json
-│   │   ├── timespace_cards.json    # 時空卡數據
+│   │   ├── timespace_cards.json    # 圖片3prompt
 │   │   └── timespace_cards copy.json
 │   ├── output/                     # 生成圖片輸出目錄
 │   ├── output_temp/                # 臨時輸出目錄
