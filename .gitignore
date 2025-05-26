@@ -76,6 +76,8 @@ settings_local.py
 # 其他文件
 .cursorrules
 .cursorignore
+.cursor/
+
+# 項目文檔（排除推送到 GitHub）
 changelog.md
 開發計畫.md
-.cursor/

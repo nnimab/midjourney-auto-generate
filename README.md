@@ -5,14 +5,27 @@
 ## 專案結構
 
 ```
-├── midjourney-automation/     # 主要自動化程式
-├── 易經卡.json               # 範例：易經卦象數據
-├── 人物卡.json               # 範例：人物卡數據
-├── 時空卡.json               # 範例：時空卡數據
-├── 22人物卡.pdf              # 範例：人物卡參考文件
-├── changelog.md              # 更新日誌
-├── 開發計畫.md               # 開發計畫
-└── README.md                 # 本文件
+├── midjourney-automation/           # 主要自動化程式目錄
+│   ├── data/                       # 數據文件目錄
+│   │   ├── character_cards.json    # 人物卡數據
+│   │   ├── character_cards copy.json
+│   │   ├── hexagrams.json          # 易經卦象數據
+│   │   ├── hexagrams copy.json
+│   │   ├── timespace_cards.json    # 時空卡數據
+│   │   └── timespace_cards copy.json
+│   ├── output/                     # 生成圖片輸出目錄
+│   ├── output_temp/                # 臨時輸出目錄
+│   ├── src/                        # 源代碼目錄
+│   ├── 舊圖片/                     # 舊圖片備份
+│   ├── .env                        # 環境變數配置（需自行創建）
+│   ├── config.py                   # 配置文件
+│   ├── README.md                   # 詳細使用說明
+│   └── requirements.txt            # Python 依賴包
+├── 易經卡.json                     # 範例：易經卦象數據
+├── 人物卡.json                     # 範例：人物卡數據
+├── 時空卡.json                     # 範例：時空卡數據
+├── 22人物卡.pdf                    # 範例：人物卡參考文件
+└── README.md                       # 本文件
 ```
 
 ## 主要功能
@@ -33,13 +46,17 @@
    cd midjourney-auto-generate
    ```
 
-2. **安裝依賴**
+2. **進入主程式目錄**
    ```bash
    cd midjourney-automation
+   ```
+
+3. **安裝依賴**
+   ```bash
    pip install -r requirements.txt
    ```
 
-3. **設置環境變數**
+4. **設置環境變數**
    在 `midjourney-automation` 目錄中創建 `.env` 文件：
    ```env
    DISCORD_TOKEN=你的Discord令牌
@@ -48,12 +65,12 @@
    DISCORD_PASSWORD=你的Discord密碼
    ```
 
-4. **準備您的數據**
-   - 在 `midjourney-automation/data/` 目錄中創建您的 JSON 數據文件
+5. **準備您的數據**
+   - 在 `data/` 目錄中創建或修改您的 JSON 數據文件
    - 修改 `config.py` 設置您的數據類型
    - 詳細說明請參考 [midjourney-automation/README.md](midjourney-automation/README.md)
 
-5. **運行程式**
+6. **運行程式**
    ```bash
    # 使用預設類型生成圖片
    python src/main.py
@@ -76,18 +93,31 @@
 ```
 
 ### 配置步驟
-1. 創建您的 JSON 數據文件
-2. 修改 `config.py` 中的數據類型設置
+1. 在 `midjourney-automation/data/` 目錄中創建您的 JSON 數據文件
+2. 修改 `midjourney-automation/config.py` 中的數據類型設置
 3. 運行程式開始生成圖片
 
 詳細配置說明請查看 [midjourney-automation/README.md](midjourney-automation/README.md)
+
+## 輸出結構
+
+生成的圖片會保存在 `midjourney-automation/output/` 目錄中：
+```
+midjourney-automation/output/
+├── 前綴_001_項目名稱/
+│   ├── image_1.png
+│   ├── image_2.png
+│   ├── image_3.png
+│   └── image_4.png
+└── 前綴_002_另一個項目/
+    ├── image_1.png
+    └── ...
+```
 
 ## 詳細文檔
 
 更多詳細信息請查看：
 - [midjourney-automation/README.md](midjourney-automation/README.md) - 詳細使用說明和配置
-- [changelog.md](changelog.md) - 更新日誌
-- [開發計畫.md](開發計畫.md) - 開發計畫
 
 ## 系統需求
 
@@ -102,6 +132,7 @@
 - 請確保有足夠的 Midjourney 使用額度
 - 運行時請勿手動操作瀏覽器
 - 私人資訊（如 `.env` 文件）已被 `.gitignore` 排除
+- 所有生成的圖片會保存在 `midjourney-automation/output/` 目錄中
 
 ## 授權
 
