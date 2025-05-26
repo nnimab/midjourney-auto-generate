@@ -1,5 +1,23 @@
 # 更新日誌
 
+## 2024-12-19 - GitHub 推送
+
+### 新增
+- 創建 .gitignore 文件，排除私人資訊和不需要的文件
+- 新增根目錄 README.md，提供專案概覽和快速開始指南
+- 成功推送專案到 GitHub：https://github.com/nnimab/midjourney-auto-generate
+- 排除 .env 文件、output 開頭的資料夾、舊圖片等私人資訊
+- 設置完整的 Git 版本控制，包含適當的 .gitignore 規則
+
+## 2024-12-19
+
+### 新增
+- 創建 .gitignore 文件，排除私人資訊和不需要的文件
+- 新增根目錄 README.md，提供專案概覽和快速開始指南
+- 成功推送專案到 GitHub：https://github.com/nnimab/midjourney-auto-generate
+- 排除 .env 文件、output 開頭的資料夾、舊圖片等私人資訊
+- 設置完整的 Git 版本控制，包含適當的 .gitignore 規則
+
 ## 2024-12-19
 
 ### 新增
@@ -65,4 +83,4 @@
 - 初始項目創建
 - 自動生成易經卦象圖片功能
 - Discord 自動登入和控制
-- Midjourney 圖片生成和下載 
+- Midjourney 圖片生成和下載
