@@ -78,3 +78,4 @@ settings_local.py
 .cursorignore
 changelog.md
 開發計畫.md
+.cursor/
