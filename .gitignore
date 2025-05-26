@@ -72,3 +72,9 @@ settings_local.py
 # 備份文件
 *.bak
 *.backup 
+
+# 其他文件
+.cursorrules
+.cursorignore
+changelog.md
+開發計畫.md
