@@ -1,0 +1,322 @@
+[
+  {
+    "卦象編號": "1",
+    "卦象名稱": "乾卦（天）",
+    "prompt": "In a boundless radiant sky, a majestic chinese dragon with shimmering golden scales soars proudly among swirling clouds. Its powerful wings stir the heavens, casting beams of light across the horizon. Below, a vast ocean reflects the golden glow, while distant mountains rise faintly, adding depth and grandeur to the awe-inspiring scene. --ar 72:126"
+  },
+  {
+    "卦象編號": "2",
+    "卦象名稱": "坤卦（地）",
+    "prompt": "Across a vast fertile plain, golden rice fields sway gently under a calm horizon. Farmers work diligently, tending to orderly rows beside a flowing river that mirrors the soft sunlight. In the distance, a herd of oxen grazes peacefully, while the warm brown earth and lush greenery create a serene and harmonious landscape. --ar 72:126"
+  },
+  {
+    "卦象編號": "3",
+    "卦象名稱": "屯卦（水雷屯）",
+    "prompt": "Amidst turbulent waters, a fragile bamboo shoot pushes upward with quiet determination, its vibrant green leaves trembling against a stormy sky. Faint lightning flickers in the distance, illuminating the dark waves that crash around it. Fishermen in small boats struggle against the current, their lanterns casting hopeful glimmers on the chaotic yet promising scene. --ar 72:126"
+  },
+  {
+    "卦象編號": "4",
+    "卦象名稱": "蒙卦（山水蒙）",
+    "prompt": "A misty mountain looms over a winding stream, its rocky slopes shrouded in a mysterious haze. Lotus leaves float gently on the water’s surface, their soft green hues contrasting with the gray stone. A lone hermit stands on a cliff, gazing into the fog, while the faint sound of a waterfall echoes, adding an air of enigma to the tranquil setting. --ar 72:126"
+  },
+  {
+    "卦象編號": "5",
+    "卦象名稱": "需卦（水天需）",
+    "prompt": "Beneath a boundless sky, a gentle rain falls steadily, its jade-like droplets glistening as they descend. A group of travelers shelters under a bamboo canopy, patiently waiting as the clouds part to reveal streaks of golden sunlight. The air is fresh and calm, the vast horizon promising renewal after the quiet downpour. --ar 72:126"
+  },
+  {
+    "卦象編號": "6",
+    "卦象名稱": "訟卦（天水訟）",
+    "prompt": "Above a raging river, stormy clouds clash in a turbulent sky, their golden edges crackling with tension. Bamboo bridges sway perilously in the wind as villagers argue heatedly on the banks, their voices rising above the roar of the water. The scene pulses with intensity, the looming heavens reflecting the unresolved strife below. --ar 72:126"
+  },
+  {
+    "卦象編號": "7",
+    "卦象名稱": "師卦（地水師）",
+    "prompt": "A disciplined river carves its path through fertile soil, flanked by orderly rows of rice paddies stretching into the distance. Soldiers march in formation along its banks, their armor glinting under the sun. The deep brown earth and flowing blue waters create a scene of strength and coordination, grounded in purpose and unity. --ar 72:126"
+  },
+  {
+    "卦象編號": "8",
+    "卦象名稱": "比卦（水地比）",
+    "prompt": "A serene lake nestles within rich farmland, its surface dotted with blooming lotus flowers. Villagers gather on the shore, sharing stories and laughter as they fish and tend the fields together. The warm brown earth and calm blue waters blend harmoniously, reflecting a peaceful community united in quiet strength. --ar 72:126"
+  },
+  {
+    "卦象編號": "9",
+    "卦象名稱": "小畜卦（風天小畜）",
+    "prompt": "A swirling gust carries bamboo leaves across a vast, golden sky, their delicate forms dancing in the breeze. A shepherd guides his flock below, pausing as faint clouds trail overhead. The scene is light and subtle, with the wind’s gentle force hinting at potential yet to unfold against the boundless heavens. --ar 72:126"
+  },
+  {
+    "卦象編號": "10",
+    "卦象名稱": "履卦（天澤履）",
+    "prompt": "A radiant sky shines over a tranquil marsh, where delicate lotus blossoms rise cautiously from the water. A lone traveler treads lightly along a narrow path, mindful of the shifting ground beneath. The golden heavens and teal waters create a serene yet careful balance, with cranes gliding silently in the distance. --ar 72:126"
+  },
+  {
+    "卦象編號": "11",
+    "卦象名稱": "泰卦（地天泰）",
+    "prompt": "Lush farmland basks beneath a clear, golden sky, its golden rice swaying in a gentle breeze. Farmers and golden cranes move freely across the fields, their harmony mirrored by the flowing river and distant mountains. The deep brown earth and vibrant sky blend seamlessly, radiating a sense of balance and prosperity. --ar 72:126"
+  },
+  {
+    "卦象編號": "12",
+    "卦象名稱": "否卦（天地否）",
+    "prompt": "A desolate plain stretches beneath a darkened sky, where withered bamboo lies scattered across cracked soil. A lone figure stands motionless, gazing at the gray horizon as the wind howls mournfully. The somber tones of the earth and sky converge, painting a scene of stagnation and quiet despair. --ar 72:126"
+  },
+  {
+    "卦象編號": "13",
+    "卦象名稱": "同人卦（天火同人）",
+    "prompt": "A blazing lantern rises into a boundless golden sky, its warm light uniting a group of travelers gathered below. They share tales around a flickering fire, their faces illuminated against the vast heavens. The fiery red glow and expansive sky create a powerful scene of connection and shared purpose. --ar 72:126"
+  },
+  {
+    "卦象編號": "14",
+    "卦象名稱": "大有卦（火天大有）",
+    "prompt": "A roaring bonfire lights up a vast sky, its flames leaping high as golden coins rain gently from above. Villagers dance and celebrate around the fire, their silhouettes glowing against the starry heavens. The fiery orange and golden tones merge in a scene of abundance and triumphant prosperity. --ar 72:126"
+  },
+  {
+    "卦象編號": "15",
+    "卦象名稱": "謙卦（地山謙）",
+    "prompt": "A modest hill rests quietly within fertile fields, its slopes covered in humbly bending bamboo groves. A farmer kneels to tend the soil, his simple tools scattered around him. The deep brown earth and muted green tones create a gentle, unassuming scene, grounded in humility and quiet strength. --ar 72:126"
+  },
+  {
+    "卦象編號": "16",
+    "卦象名稱": "豫卦（雷地豫）",
+    "prompt": "Joyful thunder rumbles across golden rice fields, its deep echoes stirring the air. Cranes dance gleefully in the breeze, while farmers laugh and play drums in celebration. The dark purple flashes and vibrant green fields blend into a lively scene of exuberance and natural harmony. --ar 72:126"
+  },
+  {
+    "卦象編號": "17",
+    "卦象名稱": "隨卦（澤雷隨）",
+    "prompt": "A shimmering pond ripples gently under distant thunder, its lotus petals swaying in quiet rhythm. Fishermen drift on small boats, adapting to the shifting currents as the sky flashes faintly. The teal waters and dark purple echoes create a fluid, adaptive scene of grace and resilience. --ar 72:126"
+  },
+  {
+    "卦象編號": "18",
+    "卦象名稱": "蠱卦（山風蠱）",
+    "prompt": "A jagged peak pierces the sky, its slopes tangled with twisted bamboo roots climbing upward. Swirling winds howl through the crags, unsettling a lone wanderer repairing his gear below. The gray stone and muted green tones weave a tense, unsettling scene of decay and hidden potential. --ar 72:126"
+  },
+  {
+    "卦象編號": "19",
+    "卦象名稱": "臨卦（地澤臨）",
+    "prompt": "A fertile plain embraces a calm pond, where lotus flowers bloom graciously under the sun. Villagers gather to share harvests, their warm smiles reflecting the peaceful waters. The deep brown earth and teal ripples form a benevolent scene of community and gentle oversight. --ar 72:126"
+  },
+  {
+    "卦象編號": "20",
+    "卦象名稱": "觀卦（風地觀）",
+    "prompt": "A gentle breeze sweeps over vast fields, carrying whispers of distant pagodas faintly visible on the horizon. A sage stands atop a hill, gazing thoughtfully at the swaying golden crops below. The light green winds and warm brown earth create a contemplative scene of observation and quiet wisdom. --ar 72:126"
+  },
+  {
+    "卦象編號": "21",
+    "卦象名稱": "噬嗑卦（火雷噬嗑）",
+    "prompt": "A fierce torch blazes amidst rolling thunder, its sparks flying like fireworks across a stormy sky. A blacksmith hammers metal with force, his silhouette sharp against the flashing purple bolts. The fiery red glow and dark thunderclaps merge in a powerful scene of decisive action and energy. --ar 72:126"
+  },
+  {
+    "卦象編號": "22",
+    "卦象名稱": "山火賁",
+    "prompt": "At the foot of a mountain, a warm bonfire burns among a grove of trees, casting a warm glow on the surrounding environment. Several villagers are sitting around the bonfire, some repairing tools, others chatting. The background features a towering mountain peak, its summit tinged golden red by the setting sun, with clouds swirling around it, adding a sense of mystery. --ar 72:126"
+  },
+  {
+    "卦象編號": "23",
+    "卦象名稱": "剝卦（山地剝）",
+    "prompt": "A crumbling peak erodes into barren fields, dust rising from cracked soil as the wind howls mournfully. A lone farmer gazes at the falling stones, his tools abandoned beside him. The gray slopes and muted brown earth paint a melancholic scene of loss and inevitable decay. --ar 72:126"
+  },
+  {
+    "卦象編號": "24",
+    "卦象名稱": "復卦（地雷復）",
+    "prompt": "A quiet farmland awakens with distant thunder, as bamboo shoots break through the soil with renewed vigor. Farmers return to their fields, their faces lit with hope under a clearing sky. The deep brown earth and dark purple rumbles blend into a scene of rebirth and quiet triumph. --ar 72:126"
+  },
+  {
+    "卦象編號": "25",
+    "卦象名稱": "無妄卦（天雷無妄）",
+    "prompt": "A sudden lightning bolt crashes beneath a vast golden sky, its jade sparks piercing the storm unexpectedly. A traveler pauses in awe, his cloak billowing as the heavens roar above. The golden expanse and dark purple flashes create a striking scene of spontaneity and raw power. --ar 72:126"
+  },
+  {
+    "卦象編號": "26",
+    "卦象名稱": "大畜卦（山天大畜）",
+    "prompt": "A towering peak stands firm beneath a boundless sky, its gray slopes unyielding as cranes circle its summit. A shepherd tends his flock below, their presence a testament to enduring strength. The golden heavens and steadfast stone form a scene of resilience and accumulated might. --ar 72:126"
+  },
+  {
+    "卦象編號": "27",
+    "卦象名稱": "頤卦（山雷頤）",
+    "prompt": "A rugged peak echoes with deep thunder, its slopes dotted with rice grains nourishing the land. A family gathers at its base, sharing a meal under the rumbling sky. The gray stone and dark purple tones weave a scene of sustenance and quiet care amidst nature’s power. --ar 72:126"
+  },
+  {
+    "卦象編號": "28",
+    "卦象名稱": "大過卦（澤風大過）",
+    "prompt": "A bending pond sways under fierce winds, its lotus stems straining against the force. Fishermen struggle to secure their boats, their faces tense as waves crash around them. The teal waters and muted green gusts create a strained, overburdened scene of resilience under pressure. --ar 72:126"
+  },
+  {
+    "卦象編號": "29",
+    "卦象名稱": "坎卦（水坎）",
+    "prompt": "A relentless river rushes through a dark gorge, its jade waves crashing fiercely against jagged cliffs. A lone boatman navigates the perilous waters, his lantern flickering in the shadows. The deep blue currents and gray stone form a treacherous yet captivating scene of danger and flow. --ar 72:126"
+  },
+  {
+    "卦象編號": "30",
+    "卦象名稱": "離卦（火離）",
+    "prompt": "A blazing phoenix dances in an endless void, its fiery wings scattering embers like lanterns across the darkness. A poet watches in awe, his scroll illuminated by the radiant glow. The fiery red and orange flames create a mesmerizing scene of brilliance and fleeting beauty. --ar 72:126"
+  },
+  {
+    "卦象編號": "31",
+    "卦象名稱": "咸卦（澤山咸）",
+    "prompt": "A tranquil pond rests beneath a steady peak, its lotus blooms swaying gently beside mossy stones. A young couple sits by the water, their hands entwined as the mountain looms protectively above. The teal waters and gray stone weave a tender scene of connection and quiet strength. --ar 72:126"
+  },
+  {
+    "卦象編號": "32",
+    "卦象名稱": "恆卦（雷風恆）",
+    "prompt": "Persistent thunder rolls through steady winds, its echoes mingling with fluttering bamboo leaves. A farmer works tirelessly in his fields, his routine unbroken by the storm. The dark purple rumbles and light green breezes form a scene of endurance and unwavering rhythm. --ar 72:126"
+  },
+  {
+    "卦象編號": "33",
+    "卦象名稱": "遯卦（天山遯）",
+    "prompt": "A retreating golden sky fades beyond a towering peak, its light dimming as cranes drift into the distance. A hermit withdraws into his cave, his silhouette small against the vast stone. The golden heavens and gray slopes create an elusive scene of retreat and quiet solitude. --ar 72:126"
+  },
+  {
+    "卦象編號": "34",
+    "卦象名稱": "大壯卦（雷天大壯）",
+    "prompt": "A mighty lightning bolt roars across a boundless sky, its jade flashes illuminating the heavens with vigor. Warriors cheer below, their banners waving triumphantly in the storm. The dark purple bolts and golden expanse form a scene of raw power and unstoppable force. --ar 72:126"
+  },
+  {
+    "卦象編號": "35",
+    "卦象名稱": "晉卦（火地晉）",
+    "prompt": "A rising flame spreads across fertile fields, its golden lanterns warming the soil as crops flourish. Farmers rejoice at the harvest, their faces lit by the advancing glow. The fiery orange light and deep brown earth blend into a scene of progress and radiant growth. --ar 72:126"
+  },
+  {
+    "卦象編號": "36",
+    "卦象名稱": "明夷卦（地火明夷）",
+    "prompt": "A hidden flame glows beneath cracked fields, its light cloaked by bamboo shadows stretching across the earth. A scholar hides his lantern, wary of the darkness around him. The deep brown soil and muted orange flicker create an obscured scene of resilience and caution. --ar 72:126"
+  },
+  {
+    "卦象編號": "37",
+    "卦象名稱": "家人卦（風火家人）",
+    "prompt": "A warm breeze fans a steady lantern, its soft glow illuminating paper screens in a cozy home. A family gathers inside, sharing stories and laughter as the wind rustles gently outside. The light green breezes and fiery red light form a familial scene of warmth and unity. --ar 72:126"
+  },
+  {
+    "卦象編號": "38",
+    "卦象名稱": "睽卦（火澤睽）",
+    "prompt": "A defiant flame burns above a restless pond, its lotus petals drifting apart on the waves. Two siblings argue on the shore, their reflections fractured in the water. The fiery orange glow and teal ripples create a divergent scene of tension and separation. --ar 72:126"
+  },
+  {
+    "卦象編號": "39",
+    "卦象名稱": "蹇卦（水山蹇）",
+    "prompt": "A stalled river pools before a steep peak, its icy bamboo bending under the cold wind. A traveler pauses, his path blocked by the towering stone ahead. The deep blue waters and gray slopes form an obstructed scene of challenge and quiet perseverance. --ar 72:126"
+  },
+  {
+    "卦象編號": "40",
+    "卦象名稱": "解卦（雷水解）",
+    "prompt": "A sudden lightning bolt breaks through stagnant waters, its jade ripples scattering freely across the surface. Villagers rejoice as the storm clears, their boats drifting smoothly once more. The dark purple flash and deep blue waves create a liberating scene of release and renewal. --ar 72:126"
+  },
+  {
+    "卦象編號": "41",
+    "卦象名稱": "損卦（山澤損）",
+    "prompt": "A rugged peak overlooks a shrinking pond, its lotus roots exposed as the water retreats. A fisherman mourns his empty nets, his silhouette small against the gray stone. The teal shallows and towering slopes form a diminishing scene of loss and quiet sacrifice. --ar 72:126"
+  },
+  {
+    "卦象編號": "42",
+    "卦象名稱": "益卦（風雷益）",
+    "prompt": "A fierce wind amplifies rolling thunder, its gusts lifting bamboo leaves with surging energy. Farmers cheer as the storm waters their fields, their crops thriving under the chaos. The light green winds and dark purple rumbles blend into an enriching scene of growth and abundance. --ar 72:126"
+  },
+  {
+    "卦象編號": "43",
+    "卦象名稱": "夬卦（澤天夬）",
+    "prompt": "A shimmering pond breaks into a vast golden sky, its lotus blossoms piercing the heavens with bold grace. Warriors stand on the shore, their resolve firm as the waters rise. The teal ripples and golden expanse form a decisive scene of breakthrough and clarity. --ar 72:126"
+  },
+  {
+    "卦象編號": "44",
+    "卦象名稱": "姤卦（天風姤）",
+    "prompt": "A fleeting gust whispers through a boundless golden sky, its bamboo leaves intertwining faintly in the breeze. A traveler pauses, sensing a subtle shift in the air around her. The golden heavens and light green winds create a delicate scene of encounter and quiet mystery. --ar 72:126"
+  },
+  {
+    "卦象編號": "45",
+    "卦象名稱": "萃卦（澤地萃）",
+    "prompt": "A vibrant pond flourishes atop fertile fields, its lotus blossoms gathering in harmony under the sun. Villagers assemble for a festival, their voices rising in song as they share their bounty. The teal waters and deep brown earth form a unified scene of celebration and togetherness. --ar 72:126"
+  },
+  {
+    "卦象編號": "46",
+    "卦象名稱": "升卦（地風升）",
+    "prompt": "A rising farmland is carried upward by gentle winds, its bamboo shoots climbing steadily toward the sky. Farmers ascend a hill, their baskets full as they reach for new heights. The deep brown soil and light green breezes create an ascending scene of effort and growth. --ar 72:126"
+  },
+  {
+    "卦象編號": "47",
+    "卦象名稱": "困卦（澤水困）",
+    "prompt": "A dwindling pond is trapped within stagnant waters, its lotus stems wilting in despair under a gray sky. A fisherman sits motionless, his boat surrounded by the lifeless expanse. The teal shallows and deep blue depths form a confined scene of struggle and quiet desperation. --ar 72:126"
+  },
+  {
+    "卦象編號": "48",
+    "卦象名稱": "井卦（水風井）",
+    "prompt": "A steady wellspring flows through swirling winds, its jade buckets nourishing the land below. Villagers gather around the well, drawing water and sharing tales as the breeze rustles their robes. The deep blue stream and light green gusts create a sustaining scene of life and community. --ar 72:126"
+  },
+  {
+    "卦象編號": "49",
+    "卦象名稱": "革卦（澤火革）",
+    "prompt": "A fierce flame erupts from a restless pond, its lotus ashes rising in renewal as the waters boil. Rebels stand on the shore, their torches aloft as they call for change. The teal waves and fiery orange blaze form a transformative scene of upheaval and rebirth. --ar 72:126"
+  },
+  {
+    "卦象編號": "50",
+    "卦象名稱": "鼎卦（火風鼎）",
+    "prompt": "A sacred flame burns steadily within swirling winds, its bronze tripod glowing faintly in a temple courtyard. Priests tend the fire, their chants rising as the breeze carries the smoke skyward. The fiery red glow and light green gusts create a stable scene of reverence and balance. --ar 72:126"
+  },
+  {
+    "卦象編號": "51",
+    "卦象名稱": "震卦（雷震）",
+    "prompt": "A mighty lightning bolt crashes through a stormy void, its jade flashes splitting the darkness with electrifying force. Villagers scatter in awe, their lanterns swaying as the thunder roars. The dark purple bolts and gray skies form a powerful scene of sudden awakening. --ar 72:126"
+  },
+  {
+    "卦象編號": "52",
+    "卦象名稱": "艮卦（山艮）",
+    "prompt": "A steadfast peak stands alone in silence, its gray slopes cloaked by bamboo groves at its base. A monk meditates atop the summit, his stillness mirroring the unyielding stone. The muted green foliage and towering gray form a tranquil scene of calm and introspection. --ar 72:126"
+  },
+  {
+    "卦象編號": "53",
+    "卦象名稱": "漸卦（風山漸）",
+    "prompt": "A gentle breeze flows over a steady peak, its pine trees growing slowly along the slopes. A traveler ascends step by step, his gaze fixed on the distant summit. The light green winds and gray stone create a gradual scene of patience and steady progress. --ar 72:126"
+  },
+  {
+    "卦象編號": "54",
+    "卦象名稱": "歸妹卦（雷澤歸妹）",
+    "prompt": "A vibrant lightning bolt echoes across a shimmering pond, its lotus flowers trembling in rhythm with the storm. A young bride stands by the water, her veil fluttering as the thunder calls. The dark purple flashes and teal ripples form a delicate scene of union and anticipation. --ar 72:126"
+  },
+  {
+    "卦象編號": "55",
+    "卦象名稱": "豐卦（雷火豐）",
+    "prompt": "A roaring thunder ignites a blazing flame, its jade sparks raining down in abundance across a festival ground. Villagers dance around towering bonfires, their joy boundless under the stormy sky. The dark purple rumbles and fiery orange glow create a plentiful scene of celebration. --ar 72:126"
+  },
+  {
+    "卦象編號": "56",
+    "卦象名稱": "旅卦（火山旅）",
+    "prompt": "A wandering flame flickers atop a distant peak, its smoke drifting like a traveler’s cloak across the horizon. A lone wanderer camps below, his small fire glowing against the gray stone. The fiery orange light and towering slopes form a transient scene of journey and solitude. --ar 72:126"
+  },
+  {
+    "卦象編號": "57",
+    "卦象名稱": "巽卦（風巽）",
+    "prompt": "A relentless wind weaves through an ethereal void, its bamboo leaves spiraling endlessly in the breeze. A merchant adjusts his sails, his boat gliding smoothly through the unseen currents. The light green gusts and gray expanse create a penetrating scene of subtlety and persistence. --ar 72:126"
+  },
+  {
+    "卦象編號": "58",
+    "卦象名稱": "兌卦（澤兌）",
+    "prompt": "A joyful pond sparkles under soft sunlight, its lotus petals dancing merrily on the surface. Children play along the shore, their laughter echoing as cranes soar overhead. The teal waters and white light form a cheerful scene of delight and simple pleasure. --ar 72:126"
+  },
+  {
+    "卦象編號": "59",
+    "卦象名稱": "渙卦（風水渙）",
+    "prompt": "A scattering wind blows over turbulent waters, its bamboo rafts drifting apart on the waves. Fishermen call to one another, their voices lost in the gusts as the horizon clears. The light green breezes and deep blue currents create a dispersed scene of movement and release. --ar 72:126"
+  },
+  {
+    "卦象編號": "60",
+    "卦象名稱": "節卦（水澤節）",
+    "prompt": "A measured stream flows into a tranquil pond, its lotus leaves marking the edges with quiet precision. A waterkeeper adjusts the gates, ensuring balance as villagers draw from the shallows. The deep blue waters and teal stillness form a restrained scene of order and harmony. --ar 72:126"
+  },
+  {
+    "卦象編號": "61",
+    "卦象名稱": "中孚卦（風澤中孚）",
+    "prompt": "A steady wind ripples across a reflective pond, its cranes soaring gracefully above the shimmering surface. A sage speaks softly to his disciples on the shore, their trust mirrored in the calm waters. The light green breezes and teal depths create a sincere scene of faith and connection. --ar 72:126"
+  },
+  {
+    "卦象編號": "62",
+    "卦象名稱": "小過卦（雷山小過）",
+    "prompt": "A faint thunder trembles atop a rugged peak, its small bamboo shoots shifting slightly in the breeze. A bird takes flight, its wings brushing the stone as the sky hums softly. The dark purple whispers and gray slopes form a subtle scene of minor shifts and careful balance. --ar 72:126"
+  },
+  {
+    "卦象編號": "63",
+    "卦象名稱": "既濟卦（水火既濟）",
+    "prompt": "A steady stream merges with a calm flame, its jade steam rising in perfect balance above a quiet village. Craftsmen work harmoniously, their tools gleaming as the fire and water meet. The deep blue currents and fiery orange glow create a completed scene of unity and fulfillment. --ar 72:126"
+  },
+  {
+    "卦象編號": "64",
+    "卦象名稱": "未濟卦（火水未濟）",
+    "prompt": "A restless flame flickers above turbulent waters, its lotus ashes swirling in chaos across the waves. A boatman struggles to steady his craft, his lantern dimming in the storm. The fiery orange light and deep blue depths form an unfinished scene of tension and unresolved potential. --ar 72:126"
+  }
+]

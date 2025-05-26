@@ -1,0 +1,156 @@
+[
+    {
+      "id": 1,
+      "title": "國王",
+      "english_title": "The King",
+      "prompt_chinese": "一位威嚴的國王坐在金色王座上，身穿深紅色和金色的長袍，手持權杖和寶劍，身後有太陽紋章，遠處有一座城堡。",
+      "prompt_english": "A majestic king sitting on a golden throne, wearing deep red and gold robes, holding a scepter and a sword, with a sun emblem behind him, a castle in the distance. --ar 3:4"
+    },
+    {
+      "id": 2,
+      "title": "女王",
+      "english_title": "The Queen",
+      "prompt_chinese": "一位優雅的女王坐在雕花的金色王座上，身穿藍色和金色的連衣裙，手持水晶球和小權杖，身後有麥田和河流。",
+      "prompt_english": "An elegant queen on a carved golden throne, in a blue and gold dress, holding a crystal ball and a small scepter, with a wheat field and river behind her. --ar 3:4"
+    },
+      {
+      "id": 3,
+      "title": "祭司",
+      "english_title": "The Priest",
+      "prompt_chinese": "缺",
+      "prompt_english": "缺"
+    },
+    {
+      "id": 4,
+      "title": "將軍",
+      "english_title": "The General",
+      "prompt_chinese": "一位身披盔甲的將軍騎在一匹強壯的馬上，手持長矛和作戰地圖，背景是旗幟和戰場的硝煙。",
+      "prompt_english": "A general in armor on a strong horse, holding a spear and a battle map, with banners and smoke from a battlefield in the background. --ar 3:4"
+    },
+    {
+      "id": 5,
+      "title": "士兵",
+      "english_title": "The Soldier",
+      "prompt_chinese": "一名身穿盔甲的士兵手持長矛，站在軍營前，遠處是紅色和藍色的天空。",
+      "prompt_english": "A soldier in armor holding a spear, standing in front of a military camp, with a red and blue sky in the distance. --ar 3:4"
+    },
+    {
+      "id": 6,
+      "title": "商人",
+      "english_title": "The Merchant",
+      "prompt_chinese": "一位身穿絲綢長袍的商人手持金幣，微笑著，手中藏著一份合同，身後是一個繁華的集市。",
+      "prompt_english": "A merchant in silk robes holding a gold coin, smiling, with a contract hidden in his hand, a bustling marketplace behind him. --ar 3:4"
+    },
+    {
+      "id": 7,
+      "title": "獵人",
+      "english_title": "The Hunter",
+      "prompt_chinese": "一位身穿皮甲的獵人在森林中蹲伏，用弓箭瞄準，遠處有一頭鹿在喝水。",
+      "prompt_english": "A hunter in leather armor crouching in a forest, aiming a bow and arrow, with a deer drinking water in the distance. --ar 3:4"
+    },
+    {
+      "id": 8,
+      "title": "劍士",
+      "english_title": "The Knight",
+      "prompt_chinese": "一位身穿銀色盔甲的騎士跪著，手持一把插入地面的劍，身後是一座城堡和暴風雨的天空。",
+      "prompt_english": "A knight in silver armor kneeling, holding a sword plunged into the ground, with a castle and stormy sky behind him. --ar 3:4"
+    },
+    {
+      "id": 9,
+      "title": "占星師",
+      "english_title": "The Astrologer",
+      "prompt_chinese": "一位身穿紫色長袍的占星師站在塔上，手持一個發光的天文儀，背景是星星和銀河。",
+      "prompt_english": "An astrologer in a purple robe on a tower, holding a glowing astrolabe, with stars and a galaxy in the background. --ar 3:4"
+    },
+    {
+      "id": 10,
+      "title": "老人",
+      "english_title": "The Elder",
+      "prompt_chinese": "一位身穿長袍的老人坐在一棵古樹下，手持一本打開的書，旁邊放著一盞燈，霧中有一個村莊。",
+      "prompt_english": "An old man in a robe sitting under an ancient tree, holding an open book, with a lantern beside him, a village in the mist. --ar 3:4"
+    },
+    {
+      "id": 11,
+      "title": "父親",
+      "english_title": "The Father",
+      "prompt_chinese": "一個強壯的男人站在門口，雙手交叉，身邊有一個正在學走路的孩子，身後是一堵石牆。",
+      "prompt_english": "A strong man standing in a doorway, hands crossed, with a child learning to walk beside him, a stone wall behind. --ar 3:4"
+    },
+    {
+      "id": 12,
+      "title": "母親",
+      "english_title": "The Mother",
+      "prompt_chinese": "一位溫柔的女子身穿綠色連衣裙坐在花園裡，抱著一個熟睡的嬰兒，桌上有水果，天空晴朗。",
+      "prompt_english": "A gentle woman in a green dress sitting in a garden, holding a sleeping baby, with fruit on a table, a clear sky. --ar 3:4"
+    },
+    {
+      "id": 13,
+      "title": "少年",
+      "english_title": "The Youth",
+      "prompt_chinese": "一個年輕人站在懸崖上，向風伸開雙臂，身後是一條山路，日出。",
+      "prompt_english": "A young man standing on a cliff, arms outstretched to the wind, with a mountain path behind him, a sunrise. --ar 3:4"
+    },
+    {
+      "id": 14,
+      "title": "少女",
+      "english_title": "The Maiden",
+      "prompt_chinese": "一個穿著白色連衣裙的年輕女孩站在花田中，手裡拿著一隻蝴蝶，遠處有一座夢幻般的城堡。",
+      "prompt_english": "A young girl in a white dress standing in a flower field, holding a butterfly, with a dreamlike castle in the distance. --ar 3:4"
+    },
+     {
+      "id": 15,
+      "title": "孤兒",
+      "english_title": "The Orphan",
+      "prompt_chinese": "缺",
+      "prompt_english": "缺"
+    },
+    {
+      "id": 16,
+      "title": "流浪者",
+      "english_title": "The Wanderer",
+      "prompt_chinese": "一個穿著深色斗篷的旅行者走在山路上，身後是一個漸漸消失的村莊，天空陰沉。",
+      "prompt_english": "A traveler in a dark cloak walking on a mountain path, with a fading village behind him, a stormy sky. --ar 3:4"
+    },
+    {
+      "id": 17,
+      "title": "隱士",
+      "english_title": "The Hermit",
+      "prompt_chinese": "一位身穿灰色長袍的隱士手持燈籠，走在黑暗的山路上，有一個洞穴和星空。",
+      "prompt_english": "A hermit in a gray robe holding a lantern, walking in a dark mountain path, with a cave and starry sky. --ar 3:4"
+    },
+    {
+      "id": 18,
+      "title": "工匠",
+      "english_title": "The Craftsman",
+      "prompt_chinese": "一位身穿工作圍裙的工匠手持錘子，正在製作一件未完成的雕塑，周圍有工具和陽光明媚的窗戶。",
+      "prompt_english": "A craftsman in a work apron holding a hammer, working on an unfinished sculpture, with tools and a sunny window. --ar 3:4"
+    },
+    {
+      "id": 19,
+      "title": "大盜",
+      "english_title": "The Thief",
+      "prompt_chinese": "一個穿著黑色斗篷的小偷從窗戶裡溜出來，手裡拿著一袋硬幣和一把匕首，月光下的夜晚。",
+      "prompt_english": "A thief in a black cloak sneaking out of a window, holding a bag of coins and a dagger, with a moonlit night. --ar 3:4"
+    },
+    {
+      "id": 20,
+      "title": "鍊金師",
+      "english_title": "The Alchemist",
+      "prompt_chinese": "一位身穿紫色長袍的煉金術士舉起一瓶發光的藥水，周圍是熾熱的爐子和奇怪的小瓶。",
+      "prompt_english": "An alchemist in a purple robe holding up a glowing potion, with a fiery furnace and strange vials around him. --ar 3:4"
+    },
+    {
+      "id": 21,
+      "title": "草藥師",
+      "english_title": "The Herbalist",
+      "prompt_chinese": "一位身穿綠色長袍的草藥師手持新鮮的草藥，站在一個木製櫥櫃前，陽光透過樹葉。",
+      "prompt_english": "A herbalist in a green robe holding a fresh herb, standing in front of a wooden cabinet, with sunlight through leaves. --ar 3:4"
+    },
+    {
+      "id": 22,
+      "title": "酒女",
+      "english_title": "The Barmaid",
+      "prompt_chinese": "一位身穿紅色連衣裙的酒吧女招待在酒館裡倒酒，背景中有人在笑，燭光。",
+      "prompt_english": "A barmaid in a red dress pouring drinks in a tavern, with laughing people in the background, candlelight. --ar 3:4"
+    }
+  ]

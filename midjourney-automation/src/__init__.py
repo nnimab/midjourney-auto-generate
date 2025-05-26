@@ -1,0 +1,3 @@
+"""
+Midjourney Automation Package
+""" 
