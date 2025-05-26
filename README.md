@@ -21,10 +21,6 @@
 │   ├── config.py                   # 配置文件
 │   ├── README.md                   # 詳細使用說明
 │   └── requirements.txt            # Python 依賴包
-├── 易經卡.json                     # 範例：易經卦象數據
-├── 人物卡.json                     # 範例：人物卡數據
-├── 時空卡.json                     # 範例：時空卡數據
-├── 22人物卡.pdf                    # 範例：人物卡參考文件
 └── README.md                       # 本文件
 ```
 
